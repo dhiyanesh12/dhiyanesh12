@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=dhiyanesh12&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhiyanesh12&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=dhiyanesh12&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
